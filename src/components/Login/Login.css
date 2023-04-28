@@ -1,0 +1,14 @@
+.img-fluid{
+   border-radius: 16px;
+}
+
+.img-fluid:hover{
+    box-shadow: 0px 0px 5px rgb(60, 223, 160),0px 0px 25px rgb(60, 223, 160),0px 0px 50px rgb(60, 223, 160);
+    background-color:rgb(60, 223, 160);
+  
+  }
+
+  .card-img-top:hover{
+    box-shadow: 0px 0px 5px goldenrod,0px 0px 25px goldenrod,0px 0px 50px goldenrod;
+    
+  }
